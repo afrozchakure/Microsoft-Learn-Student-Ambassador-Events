@@ -57,7 +57,7 @@
 ``git reset --hard``
 
 #### To remove a file from staging area we use
-``git reset HEAD ~filename~``
+``git reset HEAD [~filename~]``
 
 #### To view the statistics and facts about the last commit:
 ``git show``
@@ -66,7 +66,7 @@
 ``git remote -v``
 
 #### To add origin and check wether remote is added or not
-``git remote add origin repo-link
+``git remote add origin [repo-link]
 git remote``
 
 #### To put changes from local repo in the remote repo
