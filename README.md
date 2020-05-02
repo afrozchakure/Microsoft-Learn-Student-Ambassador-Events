@@ -1,5 +1,4 @@
-### Git-GiHub-Session
-### Repository for Git and GitHub Session
+### Repository with Step-by-Step instructions for working with Git
 
 #### After everything is set, the first thing we have to do is to configure git with our name and email:
 ``git config --global user.name [username]``  
@@ -74,3 +73,7 @@ git remote``
 
 #### From remote repo to get most recent changes.
 ``git pull``
+
+#### Resources 
+**Resource 1:** [Official Documentation Git](https://git-scm.com/)  
+**Resource 2:** [Official Documentation GitHub](https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)  
