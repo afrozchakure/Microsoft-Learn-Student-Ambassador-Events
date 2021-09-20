@@ -17,7 +17,5 @@ This repository consists the Codes, Resources and PPTs from the sessions conduct
 
 ### Wanna connect with me: 👇 
 **Linkedin:** https://www.linkedin.com/in/afroz-chakure-489780168/  
-**Instagram:** https://www.instagram.com/afrozchakure/  
-**Facebook:** https://www.facebook.com/afroz.chakure.54  
 
 Would love to hear from you. 😁💖
